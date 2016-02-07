@@ -34,7 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2329F53B1C66BF5C00F8270E /* miniReto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = miniReto.playground; path = ../../miniReto.playground; sourceTree = "<group>"; };
+		2329F53B1C66BF5C00F8270E /* miniReto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = miniReto.playground; path = ../miniReto.playground; sourceTree = "<group>"; };
 		238E008F1C63F20500B62F73 /* Prueba3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Prueba3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		238E00921C63F20500B62F73 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		238E00941C63F20500B62F73 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -78,6 +78,7 @@
 		238E00861C63F20500B62F73 = {
 			isa = PBXGroup;
 			children = (
+				2329F53B1C66BF5C00F8270E /* miniReto.playground */,
 				238E00911C63F20500B62F73 /* Prueba3 */,
 				238E00A61C63F20500B62F73 /* Prueba3Tests */,
 				238E00B11C63F20500B62F73 /* Prueba3UITests */,
@@ -111,7 +112,6 @@
 		238E00A61C63F20500B62F73 /* Prueba3Tests */ = {
 			isa = PBXGroup;
 			children = (
-				2329F53B1C66BF5C00F8270E /* miniReto.playground */,
 				238E00A71C63F20500B62F73 /* Prueba3Tests.swift */,
 				238E00A91C63F20500B62F73 /* Info.plist */,
 			);
